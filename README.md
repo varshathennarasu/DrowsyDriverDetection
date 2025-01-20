@@ -1,6 +1,6 @@
 ---
 
-# Drunk/Drowsy Driver Detection System
+# Drowsy Driver Detection System
 
 ## Overview
 As a project manager at AI Student Collective, I'm leading a 5-person team to create this project that aims to enhance road safety by detecting signs of drowsiness or intoxication in drivers using facial landmarks and machine learning. The system leverages real-time video feed analysis alongside a machine learning model trained on a Kaggle dataset to identify fatigue or impaired behavior, alerting drivers to prevent accidents.
